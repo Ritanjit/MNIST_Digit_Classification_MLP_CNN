@@ -1,6 +1,6 @@
 # MNIST Handwritten Digit Classification using MLP and CNN
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Cyb6FjNJaAT61Jsqgp5ito4iGg0-75Yv?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oNBCiY9seWZBn2klBAfwMjHt8MIxLviD?usp=sharing)
 [![Python](https://img.shields.io/badge/Python_3.9_+-3776AB?logo=python&logoColor=FF6F00)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-FF6F00?logo=tensorflow)](https://tensorflow.org)
 
