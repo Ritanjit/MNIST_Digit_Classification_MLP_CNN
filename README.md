@@ -78,18 +78,22 @@ The notebook provides a comparative analysis of the MLP and CNN models based on 
 <table>
 
 <tr>
-<td align="center">
+<td colspan="2" align="center">
 
 #### MODEL PERFORMANCE SAMPLE
 
 </td>
-
 </tr>
 
 <tr>
 <td>
 
-![Performance Comparison](https://raw.githubusercontent.com/ritanjit/MNIST_Digit_Classification_MLP_CNN/main/model_predictions.png) 
+![Performance Comparison](https://raw.githubusercontent.com/ritanjit/MNIST_Digit_Classification_MLP_CNN/main/model_predictions_MLP.png) 
+
+</td>
+<td>
+
+![Performance Comparison](https://raw.githubusercontent.com/ritanjit/MNIST_Digit_Classification_MLP_CNN/main/model_predictions_CNN.png) 
 
 </td>
 </tr>
