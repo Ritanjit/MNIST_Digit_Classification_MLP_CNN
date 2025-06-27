@@ -73,31 +73,23 @@ A more complex network designed to handle spatial data, effective for image reco
 
 ## 📈 Results
 
+The notebook provides a comparative analysis of the MLP and CNN models based on their test accuracy and loss. It also includes a visualization of sample predictions and a comparative error analysis.
+
 <table>
 
 <tr>
-<td colspan="2" align="center">
+<td align="center">
 
-#### MODEL PERFORMANCE COMPARISON
+#### MODEL PERFORMANCE SAMPLE
 
 </td>
+
 </tr>
 
 <tr>
 <td>
 
-| Model                | Accuracy (%) |
-| ---------------------|--------------|
-| CNN                  |        86.23 |
-| AlexNet              |        82.91 |
-| ResNet               |        61.70 |
-| Inception            |        74.89 |
-| Custom Architecture  |        67.59 |
-
-</td>
-<td>
-
-![Performance Comparison](https://raw.githubusercontent.com/ritanjit/CIFAR-10_Classification_Models/main/Model_Comparision.png) 
+![Performance Comparison](https://raw.githubusercontent.com/ritanjit/MNIST_Digit_Classification_MLP_CNN/main/model_predictions.png) 
 
 </td>
 </tr>
@@ -115,7 +107,7 @@ A more complex network designed to handle spatial data, effective for image reco
 ### Files
 
 *   `.ipynb`: The main Colab notebook containing all the code.
-*   `model_prediction.png`: A figure visualizing the predicted classes using the model.
+*   `model_predictions.png`: A figure visualizing the predicted classes using the model.
 
 ## 🚀 Future Work
 
